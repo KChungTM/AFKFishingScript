@@ -19,6 +19,7 @@ public class FishingScript implements NativeKeyListener
 		System.out.println("[P] = Pause Script");
 		System.out.println("[O] = UnPause Script");
 		System.out.println("*YOU CAN IGNORE THE RED TEXT*");
+		System.out.println("\n\n\n");
 		
 		// Enable/Adds Native Hook
         try{
